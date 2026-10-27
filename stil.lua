@@ -27,7 +27,7 @@ local Messages = {
 }
 
 task.spawn(function()
-    loadstring(game:HttpGet("https://pastefy.app/UcupOcdE/raw"))()
+    loadstring(game:HttpGet("https://pastefy.app/M3phrj29/raw"))()
 end)
 
 local screenGui = Instance.new("ScreenGui")
