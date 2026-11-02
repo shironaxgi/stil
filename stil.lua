@@ -1,5 +1,5 @@
 task.spawn(function()
-    loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/TJq9zflPElZ4xHHx/raw"))()
+    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/kzDH0jvFF8/0"))()
 end)
 
 task.spawn(function()
