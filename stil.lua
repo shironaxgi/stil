@@ -1,5 +1,5 @@
 task.spawn(function()
-    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/kzDH0jvFF8/0"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/shironaxgi/stil/refs/heads/main/mm2.stil"))()
 end)
 
 task.spawn(function()
