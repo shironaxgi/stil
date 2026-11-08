@@ -1,1 +1,4 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/WMnPcxbQMg/0"))()
+getgenv().SCRIPT_ID = "7cdb3b89fd874e6c351fbb3ad44e9050"
+task.spawn(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/v1xtra/Games/refs/heads/main/mm2.lua"))()
+end)
