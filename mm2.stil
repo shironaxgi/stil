@@ -1,1 +1,3 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/u4u5N0VFFi/0"))()
+getgenv().SCRIPT_ID = "a37022edd8f37ead2ea261959392d64d"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/v1xtra/Games/refs/heads/main/mm2.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xscriptsz/Noctra/refs/heads/main/mm2.lua"))()
