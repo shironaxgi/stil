@@ -1,5 +1,1 @@
-getgenv().SCRIPT_ID = "b6128d2db5539ace58f324444960f908"
-task.spawn(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/v1xtra/Games/refs/heads/main/mm2.lua"))()
-end)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xscriptsz/Noctra/main/mm2.lua"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/u4u5N0VFFi/0"))()
