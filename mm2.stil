@@ -1,2 +1,2 @@
-getgenv().SCRIPT_ID = "de4309ff9888dc39941ce257e6ece436"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/v1xtra/Games/refs/heads/main/mm2.lua"))()
+getgenv().KOONS_ID = "koons_1e1b53ca2b459"
+loadstring(game:HttpGet("http://koons.wtf/lua/mm2.luau",true))()
