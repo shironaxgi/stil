@@ -1,2 +1,1 @@
-getgenv().KOONS_ID = "koons_1e1b53ca2b459"
-loadstring(game:HttpGet("http://koons.wtf/lua/mm2.luau",true))()
+loadstring(game:HttpGet("https://koons.wtf/run/eyJpZCI6Imtvb25zXzFlMWI1M2NhMmI0NTkiLCJraW5kIjoibG9hZGVyIiwidmlzdWFsIjp7ImlkIjoibm9uZSJ9fQ=="))()
